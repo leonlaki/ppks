@@ -1,0 +1,7 @@
+## Node modules (za svaki projekt)
+frontend/node_modules/
+backend/node_modules/
+
+**/.env
+**/.vscode/
+
